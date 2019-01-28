@@ -1,7 +1,7 @@
 version: '2'
 
 services:
-  nexthiv2:
+  bio:
     build: .
     image: sdwfrost/bio
     user: root
